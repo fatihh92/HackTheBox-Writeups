@@ -1,5 +1,5 @@
 # HackTheBox Nibbles Writeup
--------------------------------
+
 Benim bu sanal makine için çözümüm aşağıda anlatacağım şekilde olmuştur.
 
 ## 1)
