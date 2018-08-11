@@ -1,7 +1,8 @@
-# Makineler
+# Machines
 
-## 1)Nibbles :heavy_check_mark:
-### 2)Poison :heavy_multiplication_x:
-### 3)Celestial :heavy_multiplication_x:
-### 4)Jerry :heavy_multiplication_x:
-### 5)Hawk :heavy_multiplication_x:
+## 1)Nibbles (Retired) :heavy_check_mark:
+### 2)Poison (Active):heavy_check_mark:
+### 3)Celestial (Active):heavy_check_mark:
+### 4)Jerry (Active):heavy_check_mark:
+### 5)Hawk (Active):heavy_check_mark:
+### 6)Active (Active):heavy_check_mark:
