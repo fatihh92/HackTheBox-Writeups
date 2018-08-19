@@ -1,11 +1,12 @@
 # My Dashboard
 
-| Machine | User | Root | Status |
-| :---:   | :---:| :---:| :---: |
-|Nibbles  |:heavy_check_mark:|:heavy_check_mark:|Retired|
-|Poison   |:heavy_check_mark:|:heavy_check_mark:|Active|
-|Celestial|:heavy_check_mark:|:heavy_check_mark:|Active|
-|Jerry    |:heavy_check_mark:|:heavy_check_mark:|Active|
-|Hawk     |:heavy_check_mark:|:heavy_check_mark:|Active|
-|Active   |:heavy_check_mark:|:heavy_check_mark:|Active|
-|Waldo    |:heavy_check_mark:|:heavy_check_mark:|Active|
+|Id| Machine | User | Root | Status |
+| :---:| :---:   | :---:| :---:| :---: |
+|1|Nibbles  |:heavy_check_mark:|:heavy_check_mark:|Retired|
+|2|Poison   |:heavy_check_mark:|:heavy_check_mark:|Active|
+|3|Celestial|:heavy_check_mark:|:heavy_check_mark:|Active|
+|4|Jerry    |:heavy_check_mark:|:heavy_check_mark:|Active|
+|5|Hawk     |:heavy_check_mark:|:heavy_check_mark:|Active|
+|6|Active   |:heavy_check_mark:|:heavy_check_mark:|Active|
+|7|Waldo    |:heavy_check_mark:|:heavy_check_mark:|Active|
+|8|DevOops  |:heavy_check_mark:|:x:|Active|
