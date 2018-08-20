@@ -9,4 +9,5 @@
 |5|Hawk     |:heavy_check_mark:|:heavy_check_mark:|Active|
 |6|Active   |:heavy_check_mark:|:heavy_check_mark:|Active|
 |7|Waldo    |:heavy_check_mark:|:heavy_check_mark:|Active|
-|8|DevOops  |:heavy_check_mark:|:x:|Active|
+|8|DevOops  |:heavy_check_mark:|:heavy_check_mark:|Active|
+<!-- :x: for kırmızı cross -->
