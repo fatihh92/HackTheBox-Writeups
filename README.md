@@ -10,7 +10,7 @@
 |6|Active   |:heavy_check_mark:|:heavy_check_mark:|Active|
 |7|Waldo    |:heavy_check_mark:|:heavy_check_mark:|Active|
 |8|DevOops  |:heavy_check_mark:|:heavy_check_mark:|Active|
-|9|Bounty  |:heavy_check_mark:|:x:|Active|
+|9|Bounty  |:heavy_check_mark:|:heavy_check_mark:|Active|
 
 ![ghroot](https://www.hackthebox.eu/badge/image/9931)
 <!-- :x: for kırmızı cross -->
