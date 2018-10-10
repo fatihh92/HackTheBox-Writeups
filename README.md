@@ -2,7 +2,7 @@
 
 |Id| Machine | Os | User | Root | Status |
 | :---:| :---:   |  :---: | :---:| :---:| :---: |
-|1|Nibbles  | ![linux](/resim/linux.png =15x15) |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
+|1|Nibbles  | ![linux](/resim/linux.png){:height="15" width="15"} |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |2|Poison   | ![freebsd](/resim/freebsd.png =15x15) |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |3|Celestial| ![linux](/resim/linux.png =15x15) |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |4|Jerry    | ![windows](/resim/win.png =15x15) |:heavy_check_mark:|:heavy_check_mark:|Active|
