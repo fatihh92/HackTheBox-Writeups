@@ -27,4 +27,4 @@
 | :---: | :---: | :---: | :---: |
 |1| Carrier | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> | Active |
 |2| Vault | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> | Active |
-|3| RedCross | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> | Active |
+|3| SecNotes | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> | Active |
