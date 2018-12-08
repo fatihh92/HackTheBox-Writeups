@@ -25,8 +25,8 @@
 <!-- :x: for kırmızı cross -->
 
 
-<!--# Targets
+# Targets
 
 |Id| Machine | Os | Status |
-| :---: | :---: | :---: | :---: | -->
+| :---: | :---: | :---: | :---: |
 |1| Lightweight | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:x:|:x:| Active |
