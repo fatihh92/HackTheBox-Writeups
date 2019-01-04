@@ -27,9 +27,3 @@
 <img src="https://www.hackthebox.eu/badge/image/9931" alt="ghroot" width="%100" height="%100">
 <!-- :x: for kırmızı cross -->
 
-
-# Targets
-
-|Id| Machine | Os | Status |
-| :---: | :---: | :---: | :---: |
-|1| Lightweight | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> | Active |
