@@ -2,7 +2,7 @@
 
 |Id| Machine | Os | User | Root | Status |
 | :---:| :---:   |  :---: | :---:| :---:| :---: |
-|1|Nibbles  | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
+|1|<a src="Nibbles.md">Nibbles</a>  | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |2|Poison   | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |3|Celestial| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |4|Jerry    | <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
