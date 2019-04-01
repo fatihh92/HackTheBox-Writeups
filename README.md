@@ -32,6 +32,7 @@
 |28|Netmon| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |29|Fortune| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/openbsd.gif" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |30|Conceal| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
+|31|LaCasaDePapel| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:x:|Active|
 <img src="https://www.hackthebox.eu/badge/image/9931" alt="ghroot" width="%100" height="%100">
 <!-- :x: for kırmızı cross -->
 
