@@ -30,5 +30,3 @@
 ![image](/vault/14.png)
 ## 15)
 ![image](/vault/15.png)
-## 16)
-![image](/vault/16.png)
