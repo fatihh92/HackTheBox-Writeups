@@ -44,6 +44,8 @@
 |40|[Heist](heist.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |41|[Networked](networked.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |42|[BitLab](bitlab.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
+|43|Json| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:x:|Active|
+|44|Forest| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:x:|Active|
 <img src="https://www.hackthebox.eu/badge/image/9931" alt="ghroot" width="%100" height="%100">
 
 
