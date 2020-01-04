@@ -39,7 +39,7 @@
 |35|[WriteUp](writeup.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |36|[Jarvis](jarvis.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |37|[Haystack](haystack.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
-|38|[Craft](craft.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
+|38|[Craft](craft.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |39|[Safe](safe.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |40|[Heist](heist.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |41|[Networked](networked.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
