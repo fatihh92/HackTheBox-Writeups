@@ -1,5 +1,5 @@
 <table>
-<tr><th> My Dashboard </th></tr>
+<tr><th width="%100"> My Dashboard </th></tr>
 <tr><td>
 
 |Id| Machine | Os | User | Root | Status |
