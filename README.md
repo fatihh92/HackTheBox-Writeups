@@ -1,7 +1,5 @@
-# My Dashboard
-
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th> My Dashboard </th></tr>
 <tr><td>
 
 |Id| Machine | Os | User | Root | Status |
