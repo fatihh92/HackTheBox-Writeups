@@ -1,5 +1,5 @@
 <table>
-<tr><th colspan="3"> My Dashboard </th></tr>
+<tr><th colspan="2"> My Dashboard </th></tr>
 <tr><td>
 
 |Id| Machine | Os | User | Root | Status |
@@ -58,8 +58,8 @@
 |48|[Traverxec](traverxec.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |49|[Control](Control.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |50|[Obscurity](Obscurity.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
-</td><td>
-
+</td></tr>
+<tr><td>
 |Id| Machine | Os | User | Root | Status |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |51|[Resolute](resolute.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
@@ -72,6 +72,10 @@
 |58|[Traceback](Traceback.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |59|[Book](book.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |60|[Remote](remote.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
+</td><td>
+|Id| Machine | Os | User | Root | Status |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|||||||
 </td></tr> 
 </table>
 <img src="https://www.hackthebox.eu/badge/image/9931" alt="ghroot" width="%100" height="%100">
