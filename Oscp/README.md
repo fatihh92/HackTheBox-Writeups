@@ -25,6 +25,7 @@
 |19|Networked| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:x:|:x:|
 |20|Safe| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:x:|:x:|
 </td><td>
+
 |Id| Machine | Os | User | Root |
 | :---: | :---: | :---: | :---: | :---: |
 |1|Blue| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
@@ -41,13 +42,16 @@
 |13|Conceal| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:|
 |14|Netmon| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:|
 </td><td>
+
 |Id| Machine | Os | User | Root |
 | :---: | :---: | :---: | :---: | :---: |
 |1|Sense| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:x:|:x:| 
 |2|Poison| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:x:|:x:|
 </td><td>
+
 |Id| Machine | Os | User | Root |
 | :---: | :---: | :---: | :---: | :---: |
 |1|Sense| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/solaris.png" width="20" height="20"> |:x:|:x:|
+
 </td></tr> 
 </table>
