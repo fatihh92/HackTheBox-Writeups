@@ -24,7 +24,7 @@
 |18|[Lightweight](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/leightweight.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
 |19|[Networked](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/networked.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
 |20|[Safe](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/safe.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
-|1|[Vulnhub-DC9](dc-9.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
+|21|[Vulnhub-DC9](dc-9.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
 </td><td>
 
 |Id| Machine | Os | User | Root |
