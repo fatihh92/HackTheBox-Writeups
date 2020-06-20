@@ -77,7 +77,7 @@
 |59|[Book](book.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |60|[Remote](remote.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |61|[Cascade](cascade.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
-|62|[ServMon](servmon.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
+|62|[ServMon](servmon.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|:red_circle:|
 |63|[ForwardSlash](forwardslash.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 |64|[Magic](magic.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/linux.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|Active|
 
