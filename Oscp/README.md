@@ -29,7 +29,7 @@
 
 |Id| Machine | Os | User | Root |
 | :---: | :---: | :---: | :---: | :---: |
-|1|Blue| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
+|1|[Blue](blue.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:| 
 |2|Devel| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
 |3|Optimum| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
 |5|Bastard| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
