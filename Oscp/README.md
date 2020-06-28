@@ -36,7 +36,7 @@
 |6|Silo| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
 |7|[Bounty](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/bounty.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:| 
 |8|[Jerry](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/jerry.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:| 
-|9|Jeeves| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
+|9|[Jeeves](jeeves.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:| 
 |10|Bart| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
 |11|Tally| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:x:|:x:| 
 |12|[Active](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/active.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/win.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:| 
