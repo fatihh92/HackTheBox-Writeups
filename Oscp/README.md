@@ -46,7 +46,7 @@
 
 |Id| Machine | Os | User | Root |
 | :---: | :---: | :---: | :---: | :---: |
-|1|Sense| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:x:|:x:| 
+|1|[Sense](sense.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:| 
 |2|[Poison](https://github.com/fatihh92/HackTheBox-Writeups/blob/master/poison.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/freebsd.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
 </td><td>
 
