@@ -52,7 +52,7 @@
 
 |Id| Machine | Os | User | Root |
 | :---: | :---: | :---: | :---: | :---: |
-|1|Sunday| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/solaris.png" width="20" height="20"> |:x:|:x:|
+|1|[Sunday](sunday.pdf)| <img src="https://github.com/fatihh92/HackTheBox-Writeups/blob/master/resim/solaris.png" width="20" height="20"> |:heavy_check_mark:|:heavy_check_mark:|
 
 </td></tr> 
 </table>
